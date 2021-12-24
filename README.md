@@ -138,4 +138,4 @@ Project Link: [https://github.com/HenryBlackie/Deduplicator](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/HenryBlackie/repo.svg?style=flat-square
 [issues-url]: https://github.com/HenryBlackie/Deduplicator/issues
 [license-shield]: https://img.shields.io/github/license/HenryBlackie/repo.svg?style=flat-square
-[license-url]: https://github.com/HenryBlackie/Deduplicator/blob/master/LICENSE.txt
+[license-url]: https://github.com/HenryBlackie/Deduplicator/blob/main/LICENSE
