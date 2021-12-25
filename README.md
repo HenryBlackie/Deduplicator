@@ -85,9 +85,24 @@ mkdir input
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Deduplicate files in directory named 'input'
+* Deduplicate files in default (input) directory
 ```sh
 python3 hasher.py
+```
+
+* Deduplicate files in specified directory
+```sh
+python3 hasher.py --input-folder FOLDER_NAME
+```
+
+* Deduplicate files to specified directory
+```sh
+python3 hasher.py --output-folder FOLDER_NAME
+```
+
+* Deduplicate files in specified directory to a specified directory
+```sh
+python3 hasher.py --input-folder FOLDER_NAME_1 --output-folder FOLDER_NAME_2
 ```
 
 
